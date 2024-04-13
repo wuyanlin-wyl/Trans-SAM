@@ -1,2 +1,2 @@
 # MAA
-The official code of MAA.
+The official code of Trans-SAM.
