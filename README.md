@@ -150,5 +150,5 @@ If you find this work helpful in your research, please consider citing:
 ## Acknowledgments
 
 - [Segment Anything Model (SAM)](https://github.com/facebookresearch/segment-anything) by Meta AI
-- [Awesome-Parameter-Efficient-Transfer-Learning Public] (https://github.com/facebookresearch/segment-anything)
+- [Awesome-Parameter-Efficient-Transfer-Learning Public](https://github.com/facebookresearch/segment-anything)
 - PyTorch and open-source deep learning community
