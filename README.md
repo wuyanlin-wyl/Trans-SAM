@@ -126,7 +126,7 @@ python test_SAM.py
 
 ```bash
 python predict_SAM.py
-
+```
 
 
 
